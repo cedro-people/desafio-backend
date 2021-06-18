@@ -38,6 +38,6 @@ Recomendações
 Avaliação
 ====
 1. A entrega do desafio deve ser feita por email, contendo um link para a o repositório no github
-2. Iremos avaliar a arquitetura da soĺução, qualidade de código, entendimento das regras de negócio, capricho com o desafio e o quão preparado o seu código estaria para ser rodado em produção
+2. Iremos avaliar a arquitetura da solução, qualidade de código, entendimento das regras de negócio, capricho com o desafio e o quão preparado o seu código estaria para ser rodado em produção
 3. Depois de avaliado o desafio, te chamaremos para apresentá-lo e discutir sobre as decisões que você tomou
 4. O prazo de entrega do desafio é de 1 semana, mas caso precise de mais tempo é só nos avisar
