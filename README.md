@@ -19,10 +19,10 @@ Deve expor uma API REST que receberá o input do usuário e retornar a resposta 
 
 Restrições
 ===
-1. A solução deve ser escrita em Go, Python ou .Net (5 ou Core 3.1)
-2. Pode ser utilizado como banco de dados o MongoDB ou PostgreSQL
-3. O projeto deve ter um README.md com todas as instruções sobre como executar e testar a solução
-4. O código deve ser escrito em inglês
+1. A solução deve ser escrita em Go, Python ou .Net (5 ou Core 3.1).
+2. Pode ser utilizado como banco de dados o MongoDB ou PostgreSQL.
+3. O projeto deve ter um README.md com todas as instruções sobre como executar e testar a solução.
+4. O código deve ser escrito em inglês.
 
 
 Recomendações
@@ -37,7 +37,7 @@ Recomendações
 
 Avaliação
 ====
-1. A entrega do desafio deve ser feita por email, contendo um link para a o repositório no github
-2. Iremos avaliar a arquitetura da solução, qualidade de código, entendimento das regras de negócio, capricho com o desafio e o quão preparado o seu código estaria para ser rodado em produção
-3. Depois de avaliado o desafio, te chamaremos para apresentá-lo e discutir sobre as decisões que você tomou
-4. O prazo de entrega do desafio é de 1 semana, mas caso precise de mais tempo é só nos avisar
+1. A entrega do desafio deve ser feita por email, contendo um link para o repositório no github
+2. Iremos avaliar a arquitetura da solução, qualidade de código, entendimento das regras de negócio, capricho com o desafio e o quão preparado o seu código estaria para ser rodado em produção.
+3. Depois de avaliado o desafio, te chamaremos para apresentá-lo e discutir sobre as decisões que você tomou.
+4. O prazo de entrega do desafio é de 1 semana, mas caso precise de mais tempo é só nos avisar.
